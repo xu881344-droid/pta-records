@@ -1,8 +1,8 @@
 # PTA 已通过题目清单
 
 > 收录口径：每道题只收**最终答案正确**的那一次提交（多次 AC 取最近一次），不保留错误尝试。
-> 共 46 道 / 全部 57 道题已通过，覆盖 6 个题目集。
-> 抓取时间：2026-11-05 15:47（北京时间）
+> 共 56 道 / 全部 57 道题已通过，覆盖 6 个题目集。
+> 抓取时间：2026-11-12 10:18（北京时间）
 
 | 题目集 | 已通过 / 题数 |
 | --- | --- |
@@ -11,7 +11,7 @@
 | [03 1 表达式ok](#03) | 13 / 13 |
 | [04 4 选择-进阶-ok](#04) | 8 / 8 |
 | [05 3 选择-基础-ok](#05) | 7 / 7 |
-| [06 3 选择-优阶-ok](#06) | 2 / 12 |
+| [06 3 选择-优阶-ok](#06) | 12 / 12 |
 
 <a id="01"></a>
 
@@ -98,5 +98,15 @@
 
 | 题号 | 标题 | 得分 | 提交时间 | 代码 |
 | --- | --- | --- | --- | --- |
+| 7-1 | [阶梯电价](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004019744768) | 15/15 | 2026-11-09 20:19:30 | [7-1-阶梯电价.c](problems/06-3 选择-优阶-ok/7-1-阶梯电价.c) |
+| 7-2 | [比较大小](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004019744769) | 10/10 | 2026-11-12 09:17:56 | [7-2-比较大小.c](problems/06-3 选择-优阶-ok/7-2-比较大小.c) |
 | 7-3 | [出租车计价](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939072) | 15/15 | 2026-11-05 11:08:49 | [7-3-出租车计价.c](problems/06-3 选择-优阶-ok/7-3-出租车计价.c) |
 | 7-4 | [计算火车运行时间](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939073) | 15/15 | 2026-11-05 11:13:56 | [7-4-计算火车运行时间.c](problems/06-3 选择-优阶-ok/7-4-计算火车运行时间.c) |
+| 7-5 | [计算个人所得税](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939074) | 10/10 | 2026-11-09 19:54:22 | [7-5-计算个人所得税.c](problems/06-3 选择-优阶-ok/7-5-计算个人所得税.c) |
+| 7-6 | [三天打鱼两天晒网](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939075) | 15/15 | 2026-11-09 20:12:03 | [7-6-三天打鱼两天晒网.c](problems/06-3 选择-优阶-ok/7-6-三天打鱼两天晒网.c) |
+| 7-7 | [计算油费](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939076) | 15/15 | 2026-11-12 09:30:06 | [7-7-计算油费.c](problems/06-3 选择-优阶-ok/7-7-计算油费.c) |
+| 7-8 | [超速判断](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939077) | 10/10 | 2026-11-09 20:02:34 | [7-8-超速判断.c](problems/06-3 选择-优阶-ok/7-8-超速判断.c) |
+| 7-9 | [分段计算居民水费](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004023939078) | 10/10 | 2026-11-12 09:35:00 | [7-9-分段计算居民水费.c](problems/06-3 选择-优阶-ok/7-9-分段计算居民水费.c) |
+| 7-10 | [计算工资](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004028133376) | 15/15 | 2026-11-12 09:36:57 | [7-10-计算工资.c](problems/06-3 选择-优阶-ok/7-10-计算工资.c) |
+| 7-11 | [12-24小时制](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004028133377) | 15/15 | 2026-11-12 09:47:06 | [7-11-12-24小时制.c](problems/06-3 选择-优阶-ok/7-11-12-24小时制.c) |
+| 7-12 | [C程序设计 实验2-3-1身高预测](https://pintia.cn/problem-sets/2118135003893915648/exam/problems/type/7?problemSetProblemId=2118135004028133378) | 20/20 | 2026-11-12 10:04:08 | [7-12-C程序设计 实验2-3-1身高预测.c](problems/06-3 选择-优阶-ok/7-12-C程序设计 实验2-3-1身高预测.c) |
